@@ -9,7 +9,7 @@
 - 白灼菜心
 
 ## Noodles
-- 辣西红柿鸡蛋面
+- [辣西红柿鸡蛋面](noodles/辣西红柿鸡蛋面.md)
 
 ## Others
 - [白灼汁](others/白灼汁.md)
