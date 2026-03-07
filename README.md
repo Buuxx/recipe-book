@@ -14,4 +14,4 @@
 ## Others
 - [白灼汁](others/白灼汁.md)
 - 猪油
-- 虾滑
+- [虾滑](others/虾滑.md)
