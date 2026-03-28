@@ -1,9 +1,9 @@
 # Recipes
 
 ## Meat
-- [清蒸鲈鱼](meat/清蒸鲈鱼.md)
-- [泰式打抛饭](meat/泰式打抛饭.md)
-- [炒鱿鱼](meat/炒鱿鱼.md)
+- [清蒸鲈鱼 Steamed Sea Bass](meat/清蒸鲈鱼.md)
+- [泰式打抛饭 Phat kaphrao](meat/泰式打抛饭.md)
+- [炒鱿鱼 Stir Fried Squid](meat/炒鱿鱼.md)
 - 虾滑粉丝白菜煲
 - 西红柿炖牛肉
 - 白切鸡腿
@@ -13,6 +13,7 @@
 - 烤羊排
 
 ## Vegetables
+- [风味茄子 Crispy Sweet and Sour Eggplant](vegetable/crispy_sweet_and_sour_eggplant.md)
 - 白灼菜心
 - 烧冬瓜
 - 萝卜汤
